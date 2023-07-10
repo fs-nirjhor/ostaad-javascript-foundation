@@ -1,4 +1,4 @@
-// 3. Assignment: Operators Practice
+// Assignment: Operators Practice
 
 // 1. declare variable 
 const num1 = 25;
@@ -29,3 +29,4 @@ console.log(`The product is ${product}`);
 console.log(`The quotient is ${quotient}`);
 
 console.log(`The remainder is ${remainder}`);
+

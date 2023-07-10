@@ -31,3 +31,4 @@ console.log(`My hobbies are ${hobbies}.`);
 // object destructuring 
 const { street, city } = address;
 console.log(`I live at ${street}, ${city}, ${address.country}.`);
+
